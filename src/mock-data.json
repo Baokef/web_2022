@@ -1,0 +1,46 @@
+[{
+        "id": "1",
+        "Identite_nationale": "10000001",
+        "Nom": "Bao",
+        "Date_de_naissance": "25/02/1990",
+        "Pays_de_naissance": "France",
+        "Pays_de_residence": "Belgium",
+        "Sexe": "Masculin",
+        "Etat_civil": "Celibataire",
+        "Langue": "Français"
+    },
+    {
+        "id": "2",
+        "Identite_nationale": "10000002",
+        "Nom": "Fall",
+        "Date_de_naissance": "02/12/1995",
+        "Pays_de_naissance": "Senegal",
+        "Pays_de_residence": "Belgium",
+        "Sexe": "Masculin",
+        "Etat_civil": "marié",
+        "Langue": "Français"
+    },
+    {
+        "id": "3",
+        "Identite_nationale": "10000003",
+        "Nom": "samb",
+        "Date_de_naissance": "05/07/1991",
+        "Pays_de_naissance": "Burundi",
+        "Pays_de_residence": "Belgium",
+        "Sexe": "Feminin",
+        "Etat_civil": "Celibataire",
+        "Langue": "Anglais"
+    },
+    {
+        "id": "4",
+        "Identite_nationale": "10000004",
+        "Nom": "Sao",
+        "Date_de_naissance": "20/01/1980",
+        "Pays_de_naissance": "Guinée",
+        "Pays_de_residence": "Belgium",
+        "Sexe": "Masculin",
+        "Etat_civil": "Celibataire",
+        "Langue": "Français"
+    }
+
+]
